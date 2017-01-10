@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  programmer: one
+  technology: one
+
+two:
+  programmer: two
+  technology: two
